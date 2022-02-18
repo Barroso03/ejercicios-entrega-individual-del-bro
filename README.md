@@ -1,4 +1,4 @@
-<h1 align="center">	Ejercicios  de la entrega individual del bro Al</h1>
+<h1 align="center">	Ejercicios  de la entrega individual del bro </h1>
 
 <h2>Repositorio:</h2>
 
