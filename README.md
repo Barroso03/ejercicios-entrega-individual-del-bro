@@ -105,6 +105,35 @@ r = (a x n1) + (b x n2) + (c x n3): REAL
 
 fin algoritmo mediaponderada
 ```
+## EJERCICIO 10
+El ejercicio trata de calcular el área de un triángulo
+```
+algoritmo areatriangulo
+
+Entrada:
+l = ladodeltriángulo
+h = alturadeltriángulo
+a = area
+Precondición:
+l > 0
+h > 0
+a > 0
+
+Realización:
+si l y a > 0:
+  a = (l x h) / 2
+Poscondición
+a = (l x h) / 2: REAL
+
+fin algoritmo areatriangulo
+```
+**APARTADO 2**
+Si se puede utilizar este algoritmo para un triángulo rectángulo
+
+## EJERCICIO 11
+
+
+
 
 
 
