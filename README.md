@@ -4,7 +4,7 @@
 
 Este es el link del [repositorio]https://github.com/Barroso03/ejercicios-entrega-individual-del-bro
 ***
-## EJERCICIO 1:
+## EJERCICIO 8:
 Es un ejercicio de aplicar impuestos e intereses
 
 **APARTADO 1**
@@ -56,8 +56,40 @@ si no:
   vuelve
 
 Poscondicion
-  a = c x i x t
+a = c x i x t
+
+fin algoritmo interes  
 ```
+
+## EJERCICO 9:
+Es un ejercicio que calcula la media aritmetica y la media ponderada
+
+**APARTADO 1**
+```
+algoritmo media
+
+Entrada
+a = primer numero
+b = segundo numero
+c = tercer numero
+r = resultado
+Precondición
+a, b, c: REAL
+
+Realización
+r = (a + b + c) / 3
+Poscondición
+r = (a + b + c) / 3: REAL
+
+fin algoritmo media
+```
+
+**APARTADO 2**
+
+
+
+
+
 
 
 
