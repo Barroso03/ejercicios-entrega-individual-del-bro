@@ -57,6 +57,7 @@ si no:
 
 Poscondicion
   a = c x i x t
+```
 
 
 
