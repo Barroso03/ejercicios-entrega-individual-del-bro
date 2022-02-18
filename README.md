@@ -60,7 +60,7 @@ a = c x i x t
 
 fin algoritmo interes  
 ```
-
+***
 ## EJERCICO 9:
 Es un ejercicio que calcula la media aritmetica y la media ponderada
 
@@ -105,6 +105,7 @@ r = (a x n1) + (b x n2) + (c x n3): REAL
 
 fin algoritmo mediaponderada
 ```
+***
 ## EJERCICIO 10
 El ejercicio trata de calcular el área de un triángulo
 ```
@@ -129,6 +130,7 @@ fin algoritmo areatriangulo
 ```
 **APARTADO 2**
 Si se puede utilizar este algoritmo para un triángulo rectángulo
+***
 
 ## EJERCICIO 11
 
