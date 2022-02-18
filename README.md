@@ -85,8 +85,26 @@ fin algoritmo media
 ```
 
 **APARTADO 2**
+```
+algoritmo mediaponderada
 
+Entrada
+a = primer numero
+b = segundo numero
+c = tercer numero
+y = coeficientes de ponderacion
+r = resultado
+n1, n2, n3 = coeficientes de ponderacion / 100
+Precondición
+a, b, c: REAL
+0 < n1, n2, n3 < 1
+Realización
+r = (a x n1) + (b x n2) + (c x n3)
+Poscondición
+r = (a x n1) + (b x n2) + (c x n3): REAL
 
+fin algoritmo mediaponderada
+```
 
 
 
