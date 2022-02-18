@@ -135,6 +135,11 @@ Si se puede utilizar este algoritmo para un triángulo rectángulo
 ## EJERCICIO 11
 
 
+## EJERCICIO 12
+
+
+
+
 
 
 
