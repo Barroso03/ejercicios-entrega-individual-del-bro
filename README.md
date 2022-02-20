@@ -228,7 +228,7 @@ Postcondición:
     c.fecha_descubierto = 0
 
 Fin de abrir
-´´´
+```
 
 
 
