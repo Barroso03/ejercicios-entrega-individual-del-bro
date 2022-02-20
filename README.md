@@ -134,8 +134,101 @@ Si se puede utilizar este algoritmo para un triángulo rectángulo
 
 ## EJERCICIO 11
 
+En este ejercicio hemos copiado muy bien Rubén llevo 5 días con programación no puedo más necesito desconectar de esto 2 dias.
+``` 
+Algoritmo: horas_extra
+    
+Entrada:
+  
+    salario_mensual_bruto : REAL
+    horas_ext : ENTERO
+        
+Precondición:
+    salario_mensual_bruto > 0
+    horas_ext ≥ 0
+
+Constante:
+   CANTIDAD_HORAS_MAX_1 : ENTERO ← 8
+   PRECIO_1 : REAL ← 1,25
+   PRECIO_2 : REAL ← 1,50
+
+Variable:
+   horas_ext_1 : ENTERO
+   horas_ext_2 : ENTERO
+   precio_hora : REAL
+      
+Realización:
+   precio_hora ← precio_hora_bruto(salario_mensual_bruto)
+   horas_ext_1 ← inf(horas_ext, CANTIDAD_HORAS_MAX_1)
+   horas_ext_2 ← sup(horas_ext - CANTIDAD_HORAS_MAX_1, 0)
+
+   Resultado ← precio_hora x (horas_ext_1 x PRECIO_1 + horas_ext_2 x PRECIO_2)
+
+Postcondición
+...
+
+Fin de las horas_extra
+```
+***
 
 ## EJERCICIO 12
+
+En este ejercicio tambien he copiado los que son propios que no he copiado ninguno son hasta el 10 incluido
+
+```
+Algoritmo: Interés generado
+
+Entrada:
+
+  c: REAL 
+  t: REAL 
+  i: REAL 
+
+Resultado: 
+REAL
+
+Precondición:
+ c ≥ 0
+ t > 0
+ i > 0
+ 
+Realización:
+ Resultado <-- c x t x i
+ 
+Poscondición:
+ Resultado = c x t x i
+
+Fin del cálculo del interés generado
+´´´
+
+```
+Algoritmo abrir:
+    
+Entrada:
+    c : CUENTA
+    saldo_inicial : REAL
+    descubierto_MAX : REAL
+    duración_max : FECHA
+
+Precondición:
+    saldo_inicial > 0
+    descubierto_MAX ≥ 0
+    duración_max ≥ 0
+
+Realización:
+    c.descubierto ← descubierto_MAX
+    c.saldo ← saldo_inicial
+    c.fecha_descubierto ← 0
+    c.duración_max ← duración_max
+
+Postcondición:
+    c.descubierto = descubierto_MAX
+    c.saldo = saldo_inicial
+    c.duración_max = duración_max
+    c.fecha_descubierto = 0
+
+Fin de abrir
+´´´
 
 
 
