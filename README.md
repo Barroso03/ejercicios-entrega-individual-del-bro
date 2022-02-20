@@ -199,9 +199,7 @@ Poscondición:
  Resultado = c x t x i
 
 Fin del cálculo del interés generado
-´´´
-***
-```
+
 Algoritmo abrir:
     
 Entrada:
