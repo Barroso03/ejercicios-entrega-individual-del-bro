@@ -200,7 +200,7 @@ Poscondición:
 
 Fin del cálculo del interés generado
 ´´´
-
+***
 ```
 Algoritmo abrir:
     
